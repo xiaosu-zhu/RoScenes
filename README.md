@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="assets/title/light.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="65%">
-  <img src="assets/title/dark.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="65%">
+  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/light.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="65%">
+  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/dark.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="65%">
   <br/>
 </p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2405.09883" target="_blank">
-    <img src="https://img.shields.io/badge/arXiv-2405.09883-b31b1b?style=for-the-badge&logo=arxiv&labelColor=630b0b
-    " alt="arXiv"/>
+    <img src="https://img.shields.io/badge/arXiv-2405.09883-b31b1b?style=for-the-badge&logo=arxiv&labelColor=630b0b" alt="arXiv"/>
   </a>
   <a href="https://github.com/xiaosu-zhu/McQuic/stargazers">
     <img src="https://img.shields.io/github/stars/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github stars"/>
