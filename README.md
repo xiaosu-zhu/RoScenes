@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/light.svg" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="75%">
+  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/light.svg" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="100%">
 </p>
 
 <p align="center">
