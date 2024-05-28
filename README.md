@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/light.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="65%">
-  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/dark.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="65%">
-  <br/>
+  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/light.svg" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="65%">
 </p>
 
 <p align="center">
