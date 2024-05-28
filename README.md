@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/light.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="100%">
-  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/dark.svg#gh-dark-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="100%">
+  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/light.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="80%" />
+  <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/dark.svg#gh-dark-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="80%" />
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2405.09883" target="_blank">
+  <a href="https://arxiv.org/abs/2405.09883" target="_blank" width="15%">
     <img src="https://img.shields.io/badge/arXiv-2405.09883-b31b1b?style=for-the-badge&logo=arxiv&labelColor=630b0b" alt="arXiv"/>
   </a>
-  <a href="https://github.com/xiaosu-zhu/McQuic/stargazers">
-    <img src="https://img.shields.io/github/stars/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github stars"/>
+  
+  <a href="https://github.com/xiaosu-zhu/McQuic/stargazers" target="_blank" width="15%">
+    <img src="https://img.shields.io/github/stars/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github stars" />
   </a>
-  <a href="https://github.com/xiaosu-zhu/McQuic/network/members">
+  
+  <a href="https://github.com/xiaosu-zhu/McQuic/network/members" target="_blank" width="15%">
     <img src="https://img.shields.io/github/forks/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github forks"/>
-  <a href="https://github.com/xiaosu-zhu/McQuic/blob/main/LICENSE">
+  </a>
+  
+  <a href="https://github.com/xiaosu-zhu/McQuic/blob/main/LICENSE" target="_blank" width="15%">
     <img src="https://img.shields.io/github/license/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github license"/>
   </a>
 </p>
