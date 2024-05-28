@@ -102,8 +102,8 @@ This repo is licensed under
 </b>
 </p>
 <p align="center">
-<a href="https://www.apache.org/licenses/LICENSE-2.0#gh-light-mode-only" target="_blank">
-  <img src="https://raw.githubusercontent.com/xiaosu-zhu/McQuic/main/assets/ASF_Logo-light.svg#gh-light-mode-only" alt="The Apache Software Foundation" title="The Apache Software Foundation" width="200px"/>
+<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
+  <img src="https://raw.githubusercontent.com/xiaosu-zhu/McQuic/main/assets/ASF_Logo-light.svg" alt="The Apache Software Foundation" title="The Apache Software Foundation" width="200px"/>
 </a>
 </p>
 <p align="center">
