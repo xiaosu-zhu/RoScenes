@@ -1,6 +1,11 @@
 <p align="center">
+  <a href="https://github.com/xiaosu-zhu/RoScenes#gh-light-mode-only" width="15%">
   <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/light.svg#gh-light-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="80%" />
+  </a>
+  
+  <a href="https://github.com/xiaosu-zhu/RoScenes#gh-dark-mode-only" width="15%">
   <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/dark.svg#gh-dark-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="80%" />
+  </a>
 </p>
 
 <p align="center" width="15%">
@@ -23,9 +28,8 @@
 
 <br/>
 <br/>
-<br/>
 
-## 📓 Release Note
+## 📰 Release Note
 
 **[2024-05-28]** Please stay tuned for the updates! We are doing final checks on data privacy.
 
@@ -33,7 +37,9 @@
 
 
 <p align="center">
+  <a href="https://github.com/xiaosu-zhu/RoScenes#-features" width="15%">
   <img src="assets/hero.jpg" alt="RoScenes" width="100%"/>
+  </a>
 </p>
 
 <!--
@@ -44,13 +50,13 @@
 </p> -->
 
 ## 🔖 Table of Contents
-* [Quick Start](#quick-start)
+* [🔥 Quick Start](#-quick-start)
    * [Download](#download)
    * [PyPI](#pypi)
    * [Install Manually (for dev)](#install-manually-for-dev)
-* [Explore the Dataset](#explore-the-dataset)
-* [Examples](#examples)
-* [To-do List](#to-do-list)
+* [🔎 Explore the Dataset](#-explore-the-dataset)
+* [👩‍💻 Examples](#-examples)
+* [🎯 To-do List](#-to-do-list)
 
 
 
