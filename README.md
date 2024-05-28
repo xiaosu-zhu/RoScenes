@@ -8,15 +8,15 @@
     <img src="https://img.shields.io/badge/arXiv-2405.09883-b31b1b?style=for-the-badge&logo=arxiv&labelColor=630b0b" alt="arXiv" height="24em"/>
   </a>
   
-  <a href="https://github.com/xiaosu-zhu/McQuic/stargazers" target="_blank" width="15%">
+  <a href="https://github.com/xiaosu-zhu/RoScenes/stargazers" target="_blank" width="15%">
     <img src="https://img.shields.io/github/stars/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github stars" height="24em"/>
   </a>
   
-  <a href="https://github.com/xiaosu-zhu/McQuic/network/members" target="_blank" width="15%">
+  <a href="https://github.com/xiaosu-zhu/RoScenes/network/members" target="_blank" width="15%">
     <img src="https://img.shields.io/github/forks/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github forks" height="24em"/>
   </a>
   
-  <a href="https://github.com/xiaosu-zhu/McQuic/blob/main/LICENSE" target="_blank" width="15%">
+  <a href="https://github.com/xiaosu-zhu/RoScenes/blob/main/LICENSE" target="_blank" width="15%">
     <img src="https://img.shields.io/github/license/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github license" height="24em"/>
   </a>
 </p>
@@ -38,8 +38,8 @@
 
 <!--
 <p align="center">
-    <img src="https://raw.githubusercontent.com/xiaosu-zhu/McQuic/main/assets/paper/priors-light.svg#gh-light-mode-only" alt="Vectorized prior" title="Vectorized prior" width="100%">
-    <img src="https://raw.githubusercontent.com/xiaosu-zhu/McQuic/main/assets/paper/priors-dark.svg#gh-dark-mode-only" alt="Vectorized prior" title="Vectorized prior" width="100%">
+    <img src="https://raw.githubusercontent.com/xiaosu-zhu//main/assets/paper/priors-light.svg#gh-light-mode-only" alt="Vectorized prior" title="Vectorized prior" width="100%">
+    <img src="https://raw.githubusercontent.com/xiaosu-zhu//main/assets/paper/priors-dark.svg#gh-dark-mode-only" alt="Vectorized prior" title="Vectorized prior" width="100%">
     <span><b>Figure 1. Operational diagrams of different methods.</b></span>
 </p> -->
 
@@ -111,7 +111,7 @@ This repo is licensed under
 </a>
 </p>
 <p align="center">
-<a href="https://raw.githubusercontent.com/xiaosu-zhu/McQuic/main/LICENSE">
+<a href="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/LICENSE">
   <b>Apache License<br/>Version 2.0</b>
 </a>
 </p>
