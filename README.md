@@ -3,21 +3,21 @@
   <img src="https://raw.githubusercontent.com/xiaosu-zhu/RoScenes/main/assets/title/dark.svg#gh-dark-mode-only" alt="RoScenes large-scale multi-view dataset for roadside perception" title="RoScenes" width="80%" />
 </p>
 
-<p align="center">
+<p align="center" width="15%">
   <a href="https://arxiv.org/abs/2405.09883" target="_blank" width="15%">
-    <img src="https://img.shields.io/badge/arXiv-2405.09883-b31b1b?style=for-the-badge&logo=arxiv&labelColor=630b0b" alt="arXiv"/>
+    <img src="https://img.shields.io/badge/arXiv-2405.09883-b31b1b?style=for-the-badge&logo=arxiv&labelColor=630b0b" alt="arXiv" height="24em"/>
   </a>
   
   <a href="https://github.com/xiaosu-zhu/McQuic/stargazers" target="_blank" width="15%">
-    <img src="https://img.shields.io/github/stars/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github stars" />
+    <img src="https://img.shields.io/github/stars/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github stars" height="24em"/>
   </a>
   
   <a href="https://github.com/xiaosu-zhu/McQuic/network/members" target="_blank" width="15%">
-    <img src="https://img.shields.io/github/forks/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github forks"/>
+    <img src="https://img.shields.io/github/forks/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github forks" height="24em"/>
   </a>
   
   <a href="https://github.com/xiaosu-zhu/McQuic/blob/main/LICENSE" target="_blank" width="15%">
-    <img src="https://img.shields.io/github/license/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github license"/>
+    <img src="https://img.shields.io/github/license/xiaosu-zhu/RoScenes?logo=github&style=for-the-badge" alt="Github license" height="24em"/>
   </a>
 </p>
 
